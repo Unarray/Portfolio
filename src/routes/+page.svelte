@@ -26,7 +26,7 @@
         return newValue;
       });
     },
-    100
+    1000 * 5
   );
 </script>
 

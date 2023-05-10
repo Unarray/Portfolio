@@ -32,17 +32,17 @@
 
 
 <div class="absolute w-full h-full flex items-center justify-center">
-  <div class="absolute bottom-5 right-5">
+  <div class="absolute bottom-0 left-auto right-auto mx-4 mb-8">
     <a
       href="https://dev.ethanmonjal.me/"
-      class="underline inline-block border-white hover:bg-white/10 border-2 rounded p-2 text-sm"
+      class="underline text-center inline-block border-white hover:bg-white/10 border-2 rounded p-2 text-sm"
     >
       Portfolio - Version de développement
     </a>
   </div>
 
   <div class="flex items-center justify-center flex-col gap-10 text-center w-3/5 lg:w-10/12">
-    <p class="text-xxl text-white animate-pulse">En développement</p>
+    <p class="text-xxl md:text-3xl text-white animate-pulse">En développement</p>
 
     <div class="w-full bg-white rounded-full h-2.5 animate-pulse">
       <div class="bg-green h-2.5 rounded-full" style="width: {$progress * 100}%"></div>

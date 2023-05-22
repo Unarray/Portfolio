@@ -34,7 +34,7 @@
 <div class="absolute w-full h-full flex items-center justify-center">
   <div class="absolute top-0 left-auto right-auto mx-4 mt-8">
     <a
-      href="https://dev.ethanmonjal.me/cv.pdf"
+      href="/cv.pdf"
       class="underline text-center inline-block border-white hover:bg-white/10 border-2 rounded p-2 text-lg"
     >
       Télécharger mon CV

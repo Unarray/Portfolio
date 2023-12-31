@@ -1,0 +1,17 @@
+
+/* --- callout.css --- */  
+ .callout[data-callout="folder-1"] {
+  --callout-color: var(--text-normal);
+  --callout-icon: folder;
+  background-color: rgb(40, 40, 40);
+  mix-blend-mode: normal;
+}
+
+.callout[data-callout="folder-2"] {
+  --callout-color: var(--text-normal);
+  --callout-icon: folder;
+  background-color: rgb(50, 50, 50);
+  mix-blend-mode: normal;
+}  
+
+
